@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE test SYSTEM "validation.dtd">
+<test>
+    <question id="1">
+        <wording>¿Cuál es el límite máximo de bloques en el axis Y?</wording>
+        <choices>
+            <choice correct="no">32 bloques</choice>
+            <choice correct="no">128 bloques</choice>
+            <choice correct="no">512 bloques</choice>
+            <choice correct="yes">384 bloques</choice>
+        </choices>
+    </question>
+    <question id="2">
+        <wording>¿Qué efecto produce la poción de invisibilidad en el jugador?</wording>
+        <choices>
+            <choice correct="no">Permite ver en la oscuridad</choice>
+            <choice correct="yes">Hace que el jugador sea invisible a todos los mobs</choice>
+            <choice correct="no">Desaparece todo el equipamiento del jugador</choice>
+            <choice correct="no">Hace invisible al jugador, pero sigue siendo detectable por mobs si lleva una armadura</choice>
+        </choices>
+    </question>
+    <question id="3">
+        <wording>¿Cómo se llama el bioma raro donde aparecen los aldeanos en Minecraft?</wording>
+        <choices>
+            <choice correct="yes">Aldea en los Llanos</choice>
+            <choice correct="no">Llanuras</choice>
+            <choice correct="no">Meseta de la Sabana</choice>
+            <choice correct="no">Bosque de Abedules</choice>
+        </choices>
+    </question>
+    <question id="4">
+        <wording>¿Qué herramienta se necesita para recolectar bloques de prismarina?</wording>
+        <choices>
+            <choice correct="no">Hacha de piedra</choice>
+            <choice correct="yes">Pico de hierro</choice>
+            <choice correct="no">Cualquier pico</choice>
+            <choice correct="no">Palas de oro</choice>
+        </choices>
+    </question>
+    <question id="5">
+        <wording>¿Cuál es el bloque que permite teletransportarse entre dimensiones?</wording>
+        <choices>
+            <choice correct="no">Portal del Nether</choice>
+            <choice correct="yes">Portal de End</choice>
+            <choice correct="no">Bloque de obsidiana</choice>
+            <choice correct="no">Bloque de diamante</choice>
+        </choices>
+    </question>
+    <question id="6">
+        <wording>¿Qué item se obtiene al matar a un Enderman?</wording>
+        <choices>
+            <choice correct="yes">Perla de Ender</choice>
+            <choice correct="no">Roca luminosa</choice>
+            <choice correct="no">Fragmento de obsidiana</choice>
+            <choice correct="no">Poción de velocidad</choice>
+        </choices>
+    </question>
+    <question id="7">
+        <wording>¿Cuánto daño hace una flecha de espectro?</wording>
+        <choices>
+            <choice correct="no">1 daño</choice>
+            <choice correct="no">5 daño</choice>
+            <choice correct="no">8 daño</choice>
+            <choice correct="yes">10 daño</choice>
+        </choices>
+    </question>
+    <question id="8">
+        <wording>¿Cuántas perlas puede dar como máximo un Enderman?</wording>
+        <choices>
+            <choice correct="no">1</choice>
+            <choice correct="no">2</choice>
+            <choice correct="yes">4</choice>
+            <choice correct="no">8</choice>
+        </choices>
+    </question>
+    <question id="9">
+        <wording>¿Cómo se llama el bloque usado para encantar?</wording>
+        <choices>
+            <choice correct="yes">Mesa de encantamientos</choice>
+            <choice correct="no">Mesa de magia</choice>
+            <choice correct="no">Mesa de hechicería</choice>
+            <choice correct="no">Banco de encantamientos</choice>
+        </choices>
+    </question>
+    <question id="10">
+        <wording>¿Cuánto tiempo dura una poción de resistencia al fuego sin ser extendida?</wording>
+        <choices>
+            <choice correct="no">45 segundos</choice>
+            <choice correct="yes">2 minutos</choice>
+            <choice correct="no">3 minutos</choice>
+            <choice correct="no">8 minutos</choice>
+        </choices>
+    </question>
+    <question id="11">
+        <wording>¿Cuál es el bloque que solo puede ser destruido por una explosión?</wording>
+        <choices>
+            <choice correct="no">Bloque de bedrock</choice>
+            <choice correct="no">Bloque de comandos</choice>
+            <choice correct="no">Bloque de obsidiana</choice>
+            <choice correct="yes">Bloque de cristal</choice>
+        </choices>
+    </question>
+    <question id="12">
+        <wording>¿Qué se necesita para invocar al Dragón del End por segunda vez?</wording>
+        <choices>
+            <choice correct="no">Bloques de obsidiana</choice>
+            <choice correct="yes">Un huevo de dragón</choice>
+            <choice correct="no">Un portal del End sin activar</choice>
+            <choice correct="no">12 perlas de Ender</choice>
+        </choices>
+    </question>
+    <question id="13">
+        <wording>¿Cuántos bloques se deben colocar para crear un portal al Nether?</wording>
+        <choices>
+            <choice correct="no">8 bloques</choice>
+            <choice correct="yes">10 bloques</choice>
+            <choice correct="no">12 bloques</choice>
+            <choice correct="no">14 bloques</choice>
+        </choices>
+    </question>
+    <question id="14">
+        <wording>¿Qué efecto tiene el encantamiento Mending?</wording>
+        <choices>
+            <choice correct="no">Cura el equipo</choice>
+            <choice correct="no">Aumenta el daño de las armas</choice>
+            <choice correct="yes">Hace que el equipo se repare usando experiencia</choice>
+            <choice correct="no">Da una mayor durabilidad a los objetos</choice>
+        </choices>
+    </question>
+    <question id="15">
+        <wording>¿Cómo se llaman los enemigos que lanzan bolas de fuego gigantes?</wording>
+        <choices>
+            <choice correct="no">Blazes</choice>
+            <choice correct="no">Magmas</choice>
+            <choice correct="yes">Ghasts</choice>
+            <choice correct="no">Wither Skeletons</choice>
+        </choices>
+    </question>
+    <question id="16">
+        <wording>¿Qué herramienta necesitas para recolectar un bloque de hongo gigante?</wording>
+        <choices>
+            <choice correct="no">Hacha</choice>
+            <choice correct="no">Picos de oro</choice>
+            <choice correct="no">Cualquier pico</choice>
+            <choice correct="yes">Cualquier herramienta con encantamiento Silk Touch</choice>
+        </choices>
+    </question>
+    <question id="17">
+        <wording>¿Cuántos ojos de Ender necesitas para activar un portal al End?</wording>
+        <choices>
+            <choice correct="no">10</choice>
+            <choice correct="yes">12</choice>
+            <choice correct="no">14</choice>
+            <choice correct="no">16</choice>
+        </choices>
+    </question>
+    <question id="18">
+        <wording>¿Cuál es el enemigo que invocas con 3 cabezas de wither?</wording>
+        <choices>
+            <choice correct="yes">Wither</choice>
+            <choice correct="no">Herobrine</choice>
+            <choice correct="no">Elder Guardian</choice>
+            <choice correct="no">Ender Dragon</choice>
+        </choices>
+    </question>
+    <question id="19">
+        <wording>¿Qué debes hacer para domesticar a un lobo en Minecraft?</wording>
+        <choices>
+            <choice correct="no">Darle una manzana dorada</choice>
+            <choice correct="yes">Darle huesos</choice>
+            <choice correct="no">Golpearlo hasta que se rinda</choice>
+            <choice correct="no">Darle un trozo de carne cruda</choice>
+        </choices>
+    </question>
+    <question id="20">
+        <wording>¿Cuál es el nombre del bioma donde no se pueden encontrar bloques de hielo?</wording>
+        <choices>
+            <choice correct="no">Tundra</choice>
+            <choice correct="yes">Sabana</choice>
+            <choice correct="no">Bioma de hielo glaciar</choice>
+            <choice correct="no">Bioma de nieve</choice>
+        </choices>
+    </question>
+</test>

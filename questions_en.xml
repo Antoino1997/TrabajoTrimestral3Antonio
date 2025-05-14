@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE test SYSTEM "validation.dtd">
+<test>
+    <question id="1">
+        <wording>What is the maximum limit of blocks in the Y axis?</wording>
+        <choices>
+            <choice correct="no">32 blocks</choice>
+            <choice correct="no">128 blocks</choice>
+            <choice correct="no">512 blocks</choice>
+            <choice correct="yes">384 blocks</choice>
+        </choices>
+    </question>
+    <question id="2">
+        <wording>What effect does the invisibility potion have on the player?</wording>
+        <choices>
+            <choice correct="no">Allows you to see in the dark</choice>
+            <choice correct="yes">Makes the player invisible to all mobs</choice>
+            <choice correct="no">Makes the player's equipment disappear</choice>
+            <choice correct="no">Makes the player invisible, but still detectable by mobs if wearing armor</choice>
+        </choices>
+    </question>
+    <question id="3">
+        <wording>What is the name of the rare biome where villagers appear in Minecraft?</wording>
+        <choices>
+            <choice correct="yes">Plains Village</choice>
+            <choice correct="no">Plains</choice>
+            <choice correct="no">Savanna Plateau</choice>
+            <choice correct="no">Birch Forest</choice>
+        </choices>
+    </question>
+    <question id="4">
+        <wording>What tool is needed to collect prismarine blocks?</wording>
+        <choices>
+            <choice correct="no">Stone axe</choice>
+            <choice correct="yes">Iron pickaxe</choice>
+            <choice correct="no">Any pickaxe</choice>
+            <choice correct="no">Gold shovels</choice>
+        </choices>
+    </question>
+    <question id="5">
+        <wording>What block allows you to teleport between dimensions?</wording>
+        <choices>
+            <choice correct="no">Nether Portal</choice>
+            <choice correct="yes">End Portal</choice>
+            <choice correct="no">Obsidian block</choice>
+            <choice correct="no">Diamond block</choice>
+        </choices>
+    </question>
+    <question id="6">
+        <wording>What item is obtained by killing an Enderman?</wording>
+        <choices>
+            <choice correct="yes">Ender Pearl</choice>
+            <choice correct="no">Glowstone</choice>
+            <choice correct="no">Obsidian fragment</choice>
+            <choice correct="no">Speed potion</choice>
+        </choices>
+    </question>
+    <question id="7">
+        <wording>How much damage does a spectral arrow do?</wording>
+        <choices>
+            <choice correct="no">1 damage</choice>
+            <choice correct="no">5 damage</choice>
+            <choice correct="no">8 damage</choice>
+            <choice correct="yes">10 damage</choice>
+        </choices>
+    </question>
+    <question id="8">
+        <wording>How many pearls can an Enderman drop at maximum?</wording>
+        <choices>
+            <choice correct="no">1</choice>
+            <choice correct="no">2</choice>
+            <choice correct="yes">4</choice>
+            <choice correct="no">8</choice>
+        </choices>
+    </question>
+    <question id="9">
+        <wording>What is the name of the block used to enchant?</wording>
+        <choices>
+            <choice correct="yes">Enchanting Table</choice>
+            <choice correct="no">Magic Table</choice>
+            <choice correct="no">Witchcraft Table</choice>
+            <choice correct="no">Enchanting Bank</choice>
+        </choices>
+    </question>
+    <question id="10">
+        <wording>How long does a Fire Resistance potion last without being extended?</wording>
+        <choices>
+            <choice correct="no">45 seconds</choice>
+            <choice correct="yes">2 minutes</choice>
+            <choice correct="no">3 minutes</choice>
+            <choice correct="no">8 minutes</choice>
+        </choices>
+    </question>
+    <question id="11">
+        <wording>What block can only be destroyed by an explosion?</wording>
+        <choices>
+            <choice correct="no">Bedrock block</choice>
+            <choice correct="no">Command block</choice>
+            <choice correct="no">Obsidian block</choice>
+            <choice correct="yes">Glass block</choice>
+        </choices>
+    </question>
+    <question id="12">
+        <wording>What is needed to summon the Ender Dragon a second time?</wording>
+        <choices>
+            <choice correct="no">Obsidian blocks</choice>
+            <choice correct="yes">A dragon egg</choice>
+            <choice correct="no">An inactive End Portal</choice>
+            <choice correct="no">12 Ender Pearls</choice>
+        </choices>
+    </question>
+    <question id="13">
+        <wording>How many blocks need to be placed to create a Nether portal?</wording>
+        <choices>
+            <choice correct="no">8 blocks</choice>
+            <choice correct="yes">10 blocks</choice>
+            <choice correct="no">12 blocks</choice>
+            <choice correct="no">14 blocks</choice>
+        </choices>
+    </question>
+    <question id="14">
+        <wording>What effect does the Mending enchantment have?</wording>
+        <choices>
+            <choice correct="no">Heals the equipment</choice>
+            <choice correct="no">Increases weapon damage</choice>
+            <choice correct="yes">Repairs the equipment using experience</choice>
+            <choice correct="no">Gives higher durability to items</choice>
+        </choices>
+    </question>
+    <question id="15">
+        <wording>What are the enemies that shoot giant fireballs called?</wording>
+        <choices>
+            <choice correct="no">Blazes</choice>
+            <choice correct="no">Magmas</choice>
+            <choice correct="yes">Ghasts</choice>
+            <choice correct="no">Wither Skeletons</choice>
+        </choices>
+    </question>
+    <question id="16">
+        <wording>What tool do you need to collect a giant mushroom block?</wording>
+        <choices>
+            <choice correct="no">Axe</choice>
+            <choice correct="no">Gold pickaxes</choice>
+            <choice correct="no">Any pickaxe</choice>
+            <choice correct="yes">Any tool with Silk Touch enchantment</choice>
+        </choices>
+    </question>
+    <question id="17">
+        <wording>How many Ender Eyes do you need to activate an End Portal?</wording>
+        <choices>
+            <choice correct="no">10</choice>
+            <choice correct="yes">12</choice>
+            <choice correct="no">14</choice>
+            <choice correct="no">16</choice>
+        </choices>
+    </question>
+    <question id="18">
+        <wording>What is the name of the enemy summoned with 3 Wither heads?</wording>
+        <choices>
+            <choice correct="yes">Wither</choice>
+            <choice correct="no">Herobrine</choice>
+            <choice correct="no">Elder Guardian</choice>
+            <choice correct="no">Ender Dragon</choice>
+        </choices>
+    </question>
+    <question id="19">
+        <wording>What do you need to tame a wolf in Minecraft?</wording>
+        <choices>
+            <choice correct="no">Give it a golden apple</choice>
+            <choice correct="yes">Give it bones</choice>
+            <choice correct="no">Hit it until it surrenders</choice>
+            <choice correct="no">Give it a piece of raw meat</choice>
+        </choices>
+    </question>
+    <question id="20">
+        <wording>What is the name of the biome where ice blocks cannot be found?</wording>
+        <choices>
+            <choice correct="no">Tundra</choice>
+            <choice correct="yes">Savanna</choice>
+            <choice correct="no">Glacial Ice Biome</choice>
+            <choice correct="no">Snow Biome</choice>
+        </choices>
+    </question>
+</test>
